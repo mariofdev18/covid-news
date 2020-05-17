@@ -1,0 +1,46 @@
+
+/*Navbar*/
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark{
+  background-color: #2BC2C2 !important;
+}
+.navbar-brand{
+  font-size: 30px !important;
+}
+
+nav ul li{
+  font-size: 20px !important;
+}
+
+/*Forms*/
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  max-width: 600px;
+  height: 320px;
+  border-radius: 15px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form,
+#register .container #register-row #register-column #register-box #register-form{
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link,
+#register .container #register-row #register-column #register-box #register-form #register-link {
+  margin-top: -85px;
+}
+
+#register .container #register-row #register-column #register-box {
+  margin-top: 120px;
+  max-width: 600px;
+  height: 470px;
+  border-radius: 15px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+
+/*News*/
+.card.mb-3{
+  text-align: center !important;
+  margin: auto;
+  max-width: 600px !important;
+}
