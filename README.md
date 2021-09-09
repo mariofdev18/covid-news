@@ -1,5 +1,12 @@
-# covid-news
+# Covid News
 Simple covid-19 tracker that shows news about.
+
+Technologies:
+  - React.js
+  - Node.js
+  - Bootstrap
+  - World Health Organization data set
+  - [NewsAPI](https://newsapi.org/)
 
 
 ![1-CovidNews](https://user-images.githubusercontent.com/50331419/132601907-245bf7dd-a6c5-40e9-bf4f-90738d7b1843.png)
